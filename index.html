@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js"></script>
+</head>
+<body>
+    <header>
+        <div class="header_info">
+            <div class="head_text">
+        <h2>ЗВІТИ З ЛАБОРАТОРНИХ РОБІТ <br> З ДИСЦИПЛІНИ "ІНТЕРНЕТ-ТЕХНОЛОГІЇ ТА ПРОЄКТУВАННЯ WEB-ЗАСТОСУВАНЬ"</h2>
+        <h3>Виконала студентка групи ІС-33 Бабенко Анастасія</h3>
+            </div>
+        <img src="resources/photo.jpg" alt="photo" height="124">
+        </div>
+    </header>
+
+    <main>
+        <div class="lab">
+            <span>
+                <a href="sr1/sr.html"><button>Самостійна робота №1</button></a>
+                <a href="index.html"><button class="active">Лабораторна робота №1</button></a>
+                <a href="index.html"><button>Лабораторна робота №2</button></a>
+                <a href="index.html"><button>Лабораторна робота №3</button></a>
+                <a href="index.html"><button>Лабораторна робота №4</button></a>
+                <a href="index.html"><button>Лабораторна робота №5</button></a>
+                <a href="index.html"><button>Лабораторна робота №6</button></a>
+                <a href="index.html"><button>Лабораторна робота №7</button></a>
+                <a href="index.html"><button>Лабораторна робота №8</button></a>
+                <a href="index.html"><button>Лабораторна робота №9</button></a>               
+
+            </span>
+        </div>
+        <div class="container">
+            <div class="sidebar">
+                <button onclick="showSection('description')">Опис предметного середовища</button><br>
+                <button onclick="showSection('topic')">Тема Мета Місце розташування лаб №1</button><br>
+                <button onclick="showSection('structure')">СТРУКТУРА ДОКУМЕНТА</button><br>
+                <button onclick="showSection('table')">HTML-код ТАБЛИЦЬ</button><br>
+                <button onclick="showSection('form')">HTML-код ФОРМИ</button><br>
+                <button onclick="showSection('list')">HTML-код СПИСОК</button><br>
+                <button onclick="showSection('image')">HTML-код ЗОБРАЖЕННЯ</button><br>
+                <button onclick="showSection('conclusion')">ВИСНОВКИ</button>
+            </div>
+            <div class="info" id="info"></div>
+        </div>
+    </main>
+
+    <footer><p>Дата останнього оновлення: 19.09.2024</p></footer>
+    
+</body>
+</html>

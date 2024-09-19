@@ -1,0 +1,27 @@
+.header_info{
+    display: flex;
+}
+.header_info img{
+   padding-left: 10%; 
+}
+.head_text{
+    text-align: center;
+    margin-left: 10%;
+}
+.active{
+    background-color: rgb(117, 117, 117);
+}
+.container{
+    margin-top: 36px;
+    display: flex;
+}
+
+.sidebar button{
+    width: 122px;
+    margin-bottom: 10px;
+}
+.info{
+    margin-left: 30px;
+    width: 70%;
+}
+
