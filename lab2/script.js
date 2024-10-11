@@ -6,10 +6,17 @@ function showSection(section) {
             <h2>Тема Мета Місце розташування лаб №2</h2>
             <p>Тема: КАСКАДНІ ТАБЛИЦІ СТИЛІВ. СЕЛЕКТОРИ .ІДЕНТИФІКАТОРИ. СТИЛЬОВЕ ОФОРМЛЕННЯ ТЕКСТОВИХ ЕЛЕМЕНТІВ В HTML-ДОКУМЕНТАХ.</p>
             <p>Мета: придбати практичні навички роботи  з селекторами, ідентифікаторами, списками,  різноманітними властивостями кольору і фону,  зовнішними та внутрішними  відступами,  плаваючими елементами, оформленням текстових елементів</p>
-            <p>Посилання на сторінку:</p>
-            <a href="https://nababenko.github.io/web_lab2/">https://nababenko.github.io/web_lab2/</a>
-            <p>Посилання на GitHub:</p>
-            <a href="https://github.com/nababenko/web_lab2">https://github.com/nababenko/web_lab2</a>
+            <br>
+            <p>Посилання на живу сторінку: https://nababenko.github.io/web_lab2/
+            <a href="https://nababenko.github.io/web_lab2/">https://nababenko.github.io/web_lab2/</a></p>
+            <p>Посилання на GitHub: https://github.com/nababenko/web_lab2
+            <a href="https://github.com/nababenko/web_lab2">https://github.com/nababenko/web_lab2</a></p><br>
+
+            <p>Посилання на сторінку самостійної роботи №2: https://nababenko.github.io/web_sr2/
+                <a href="https://nababenko.github.io/web_sr2/">https://nababenko.github.io/web_sr2/</a></p> 
+            
+                <p>Посилання на GitHub самостійної роботи №2: https://github.com/nababenko/web_sr2
+                <a href="https://github.com/nababenko/web_sr2">https://github.com/nababenko/web_sr2</a></p> 
         `,
         methods: `
             <h2>Способи підключення стилів</h2>

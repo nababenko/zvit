@@ -15,11 +15,20 @@ function showSection(section) {
             </p>
             <p>Мета: придбати практичні навички роботи  з HTML-документом, таблицями, , зображеннями, посиланнями, списками, формами
             Створити шаблон звітного HTML-документом для відображення результатів роботи всіх лабораторних робіт.
-            </p>
-            <p>Посилання на сторінку:</p>
-            <a href="https://nababenko.github.io/web_lab1/">https://nababenko.github.io/web_lab1/</a>
-            <p>Посилання на GitHub:</p>
-            <a href="https://github.com/nababenko/web_lab1">https://github.com/nababenko/web_lab1</a>
+            </p><br>
+            
+            <p>Посилання на живу сторінку: https://nababenko.github.io/web_lab1/
+            <a href="https://nababenko.github.io/web_lab1/">https://nababenko.github.io/web_lab1/</a></p>
+
+            <p>Посилання на GitHub: https://github.com/nababenko/web_lab1
+            <a href="https://github.com/nababenko/web_lab1">https://github.com/nababenko/web_lab1</a></p>
+            <br>
+
+            <p>Посилання на сторінку самостійної роботи №1: https://nababenko.github.io/web_sr1/
+            <a href="https://nababenko.github.io/web_sr1/">https://nababenko.github.io/web_sr1/</a></p>
+            
+            <p>Посилання на GitHub самостійної роботи №1: https://github.com/nababenko/web_sr1 
+            <a href="https://github.com/nababenko/web_sr1">https://github.com/nababenko/web_sr1</a></p>
         `,
         structure: `
             <h2>СТРУКТУРА ДОКУМЕНТА</h2>
