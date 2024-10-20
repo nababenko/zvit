@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Лабораторна робота 4</title>
+    <link rel="stylesheet" href="../styles.css">
+    <script src="script.js"></script>
+</head>
+<body>
+<header></header>
+
+<main>
+    <div class="header_info">
+        <div class="head_text">
+            <h2>ЗВІТИ З ЛАБОРАТОРНИХ РОБІТ <br> З ДИСЦИПЛІНИ "ІНТЕРНЕТ-ТЕХНОЛОГІЇ ТА ПРОЄКТУВАННЯ WEB-ЗАСТОСУВАНЬ"</h2>
+            <h3>Виконала студентка групи ІС-33 Бабенко Анастасія</h3>
+        </div>
+        <img src="../resources/photo.jpg" alt="photo" height="124">
+    </div>
+
+
+    <div class="lab">
+            <span>
+                <a href="../index.html"><button>Лабораторна робота №1</button></a>
+                <a href="../lab2/lab2.html"><button>Лабораторна робота №2</button></a>
+                <a href="../lab3/lab3.html"><button>Лабораторна робота №3</button></a>
+                <a href="index.html"><button class="active">Лабораторна робота №4</button></a>
+                <a href="index.html"><button>Лабораторна робота №5</button></a>
+                <a href="index.html"><button>Лабораторна робота №6</button></a>
+                <a href="index.html"><button>Лабораторна робота №7</button></a>
+                <a href="index.html"><button>Лабораторна робота №8</button></a>
+                <a href="index.html"><button>Лабораторна робота №9</button></a>
+
+            </span>
+    </div>
+    <div class="container">
+        <div class="sidebar">
+            <button onclick="showSection('topic')">Тема Мета Місце розташування</button><br>
+            <button onclick="showSection('desktop')">Десктоп версія</button><br>
+            <button onclick="showSection('tablet')">Планшетна версія</button><br>
+            <button onclick="showSection('mobile')">Мобільна версія</button><br>
+            <button onclick="showSection('operators')">Логічні оператори</button><br>
+            <button onclick="showSection('conclusion')">ВИСНОВКИ</button>
+        </div>
+        <div class="info" id="info"></div>
+    </div>
+</main>
+
+<footer><p>Дата останнього оновлення: 18.10.2024</p></footer>
+
+</body>
+</html>
