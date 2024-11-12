@@ -14,19 +14,69 @@ function showSection(section) {
 
         `,
         task1: `
+            <h2>Завдання №1</h2>
+            <p>Оголоси функцію makeTransaction, яка очікує два параметри, значення яких будуть задаватися під час її виклику: • quantity— перший параметр, число, що містить кількість замовлених дроїдів • pricePerDroid — другий параметр, число, що містить вартість одного дроїда<br>
+               <br> Напиши  код функції так, щоб вона повертала рядок з повідомленням про покупку ремонтних дроїдів: "You ordered quantity droids worth totalPrice credits!", де:
+               <br>  quantity — це кількість замовлених дроїдів 
+               <br>  totalPrice — це загальна вартість замовлення, тобто вартість усіх замовлених дроїдів
+            </p>
             
+            <img src="../resources/task1%20(3).png" alt="task1" width="700">
+            <img src="../resources/task1%20(2).png" alt="task1" width="700">
+            <img src="../resources/task1%20(1).png" alt="task1" width="700">
            `,
         task2: `
+           <h2>Завдання №2</h2>
+           <p>Функція checkForSpam(message) приймає рядок (параметр message), перевіряє його на вміст заборонених слів spam і sale, і повертає результат перевірки. Слова в рядку параметра message можуть бути в довільному регістрі, наприклад SPAM або sAlE.<br>
+            <br>Доповни код функції таким чином, що:
+            <br>Якщо знайдено заборонене слово (spam або sale), то функція повертає буль true
+            <br>Якщо в рядку відсутні заборонені слова, функція повертає буль false
+           </p>
            
+           <img src="../resources/task2%20(4).png" alt="task1" width="700">           
+           <img src="../resources/task2%20(1).png" alt="task1" width="700">
+           <img src="../resources/task2%20(3).png" alt="task1" width="700">
+           <img src="../resources/task2%20(2).png" alt="task1" width="700">
         `,
         task3: `
-            
+           <h2>Завдання №3</h2>
+           <p>Напиши функцію filterArray(numbers, value), яка приймає масив чисел (numbers) та значення (value) як параметри. Функція повинна повертати новий масив лише тих чисел із масиву numbers, які більші за значення value.<br>
+            <br>Усередині функції:
+            <br>Створи порожній масив, у який будеш додавати підходящі числа.
+            <br>Використай цикл для ітерації кожного елемента масиву numbers.
+            <br>Використовуй умовний оператор if усередині циклу для перевірки кожного елемента и додавання до свого масиву.
+            <br>Поверни свій новий масив з підходящими числами як результат.
+           </p>
+                                
+           <img src="../resources/task3%20(1).png" alt="task1" width="700"> 
+           <img src="../resources/task3%20(3).png" alt="task1" width="700">
+           <img src="../resources/task3%20(2).png" alt="task1" width="700"> 
+           <img src="../resources/task3%20(6).png" alt="task1" width="700">
+           <img src="../resources/task3%20(5).png" alt="task1" width="700"> 
+           <img src="../resources/task3%20(4).png" alt="task1" width="700">
         `,
         task4: `
+           <h2>Завдання №4</h2> 
+           <p>1.Створити одновимірний масив, кількість елементів якого задана користувачем. Знайти максимальний серед парних елементів та мінімальний серед елементів з парними індексами. В масиві поміняти місцями знайдені максимальний та мінімальний елементи, надрукувати вхідний та вихідний масиви. Застосувати функції
+            <br><br>2. Виконати сортування вихідного масиву за зростанням методом вставки. Застосувати функції
+           </p>
             
+           <img src="../resources/task4%20(2).png" alt="task1" width="700"> 
+           <img src="../resources/task4%20(3).png" alt="task1" width="700">
+           <img src="../resources/task4%20(4).png" alt="task1" width="700">
+           <img src="../resources/task4%20(5).png" alt="task1" width="700"> 
+           <img src="../resources/task4%20(1).png" alt="task1" width="700">
         `,
         task5: `
-            
+           <h2>Завдання №5</h2> 
+           <p>Забезпечити перевірку елементів HTML-форми таких видів: ціле число, дійсне число, дата у форматі DD.MM.YYYY, однаковість даних у полях введення паролю (основне та перевірочне). Крім того, забезпечити перевірку введення обов‘язкових полів, помічених (*). </p>
+                       
+           <img src="../resources/task5%20(4).png" alt="task1" width="700">
+           <img src="../resources/task5%20(5).png" alt="task1" width="700"> 
+           <img src="../resources/task5%20(1).png" alt="task1" width="700"> 
+           <img src="../resources/task5%20(2).png" alt="task1" width="700"> 
+           <img src="../resources/task5%20(3).png" alt="task1" width="700">          
+           <img src="../resources/task5%20(6).png" alt="task1" width="700">
         `,
 
         conclusion: `
