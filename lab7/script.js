@@ -15,33 +15,54 @@ function showSection(section) {
         `,
         task1: `
             <h2>Завдання №1</h2>
-            
+            <img src="../resources/ts1%20(4).png"><br>
+            <img src="../resources/ts1%20(1).png"><br>
+            <img src="../resources/ts1%20(2).png"><br>
+            <img src="../resources/ts1%20(3).png">
             
            `,
         task3: `
-           <h2>Завдання №3</h2>
-           
+           <h2>Завдання №3</h2>           
+            <img src="../resources/ts3%20(3).png"><br>
+            <img src="../resources/ts3%20(4).png"><br>
+            <img src="../resources/ts3%20(1).png"><br>
+            <img src="../resources/ts3%20(2).png">
            
         `,
         task5: `
            <h2>Завдання №5</h2>
-            
+            <img src="../resources/ts5%20(4).png"><br>
+            <img src="../resources/ts5%20(1).png"><br>
+            <img src="../resources/ts5%20(2).png"><br>
+            <img src="../resources/ts5%20(3).png">
         `,
         task7: `
            <h2>Завдання №7</h2>            
-            
+            <img src="../resources/ts7%20(4).png"><br>
+            <img src="../resources/ts7%20(1).png"><br>
+            <img src="../resources/ts7%20(2).png"><br>
+            <img src="../resources/ts7%20(3).png">
         `,
         task8: `
            <h2>Завдання №8</h2>            
-            
+            <img src="../resources/ts8%20(4).png"><br>
+            <img src="../resources/ts8%20(1).png"><br>
+            <img src="../resources/ts8%20(2).png"><br>
+            <img src="../resources/ts8%20(3).png">
         `,
         task9: `
            <h2>Завдання №9</h2> 
-           
+           <img src="../resources/ts9%20(4).png"><br>
+            <img src="../resources/ts9%20(1).png"><br>
+            <img src="../resources/ts9%20(2).png"><br>
+            <img src="../resources/ts9%20(3).png">
         `,
         task10: `
            <h2>Завдання №10</h2> 
-           
+           <img src="../resources/ts10%20(4).png"><br>
+            <img src="../resources/ts10%20(1).png"><br>
+            <img src="../resources/ts10%20(2).png"><br>
+            <img src="../resources/ts10%20(3).png">
            
         `,
 
