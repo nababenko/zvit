@@ -8,9 +8,9 @@ function showSection(section) {
             <p><b>Мета:</b>придбати практичні навички роботи з об'єктами. Методи об'єкта. Callback. Стрілочні функції. Стрілочні функції як колбеки. Реалізація програм засовами мови JAVASCRIPT</p>
             <br>
             <p>Посилання на живу сторінку: https://nababenko.github.io/web_lab7/
-            <a href="https://nababenko.github.io/web_lab6/">https://nababenko.github.io/web_lab7/</a></p>
+            <a href="https://nababenko.github.io/web_lab7/">https://nababenko.github.io/web_lab7/</a></p>
             <p>Посилання на GitHub: https://github.com/nababenko/web_lab7
-            <a href="https://github.com/nababenko/web_lab6">https://github.com/nababenko/web_lab7</a></p><br>
+            <a href="https://github.com/nababenko/web_lab7">https://github.com/nababenko/web_lab7</a></p><br>
 
         `,
         task1: `
